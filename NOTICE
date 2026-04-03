@@ -1,0 +1,17 @@
+GetItcmdGUI - NOTICE
+
+This product includes software derived from the AutoGetIt project by David Cornelius.
+
+Original project:
+https://github.com/corneliusdavid/AutoGetIt
+
+Original copyright:
+Copyright (c) 2021 David Cornelius
+
+License:
+MIT License (see LICENSE)
+
+Statement:
+The original concept and initial implementation are credited to David Cornelius.
+This repository contains a heavily modified and extended derivative variant (GetItcmdGUI),
+while preserving attribution and original license terms.
